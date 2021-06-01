@@ -1,0 +1,22 @@
+Int, Job seekers
+Double age
+String jobseekers, certificate, age
+Read job seekers, certificate, age
+For (i=25; i<25i++)
+Read o[i]
+End for 
+If age=25
+Print “Acceptable”
+Else
+Display “Refusal”
+Switch (Job seekers)
+Case (Age<=25
+Print “display Acceptable”
+Case (Age>25)
+Print “display Refusal”
+End switch 
+If job seekers =less than 25 and have bachelors 
+Display “Acceptable”
+Else 
+Display “Refusal”
+End if 
